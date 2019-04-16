@@ -1,7 +1,7 @@
 #ifndef THRACKLE_H
 #define THRACKLE_H
 
-#include "point.h"
+#include "point.hpp"
 //Thrackle object. A collection of edges.
 //An edge is a pair of Point objects.
 //Each element of edges is a vector of size 2.

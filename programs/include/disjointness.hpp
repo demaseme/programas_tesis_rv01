@@ -1,7 +1,7 @@
 #ifndef DISJOINTNESS_H
 #define DISJOINTNESS_H
 
-#include "thrackle.h"
+#include "thrackle.hpp"
 extern int minAt;
 extern int lowAt;
 
